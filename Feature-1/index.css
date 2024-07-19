@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+    font-weight: normal;
+}
+
+header {
+    background-color: coral;
+    color: white;
+    font-weight: 300;
+    padding: 0.5em;
+}
